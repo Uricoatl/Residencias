@@ -1,5 +1,7 @@
 {
   "name": "Residencias",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
